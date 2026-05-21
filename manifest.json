@@ -1,0 +1,22 @@
+{
+  "name": "樹木医試験 予想問題クイズ",
+  "short_name": "樹木医クイズ",
+  "description": "樹木医試験対策の予想問題クイズアプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a472a",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
