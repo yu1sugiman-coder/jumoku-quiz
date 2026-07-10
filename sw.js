@@ -1,4 +1,4 @@
-const CACHE_NAME = 'jumoku-quiz-v3';
+const CACHE_NAME = 'jumoku-quiz-v4';
 const ASSETS = [
   './',
   './index.html',
